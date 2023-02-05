@@ -1,13 +1,13 @@
 #define BLYNK_TEMPLATE_ID           "TMPL8jDCuksv"
 #define BLYNK_TEMPLATE_NAME         "Quickstart Device"
-#define BLYNK_AUTH_TOKEN            "8bZsZjIv3S1WwrRwBPcIC0UlKEf8bhZn"
+#define BLYNK_AUTH_TOKEN            "auth token gir"
 
 #include <ESP8266WiFi.h>
 #include <BlynkSimpleEsp8266.h>
 
 // Blynk sunucusu ile bağlantı kurmak için kullanılacak Wi-Fi bilgileri
-char ssid[] = "ice_family_ZYXEL_2-4G";
-char pass[] = "emrebuzInternet";
+char ssid[] = "internet ssid gir";
+char pass[] = "internetpass gir";
 
 // Su akış sensörü pin ataması
 int flowSensorPin = D2;

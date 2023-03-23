@@ -4,7 +4,8 @@
 
 #include <ESP8266WiFi.h>
 #include <BlynkSimpleEsp8266.h>
-
+//Board = ESP8266 NODEMCU 1.0
+//COM4 (USB)
 // Blynk sunucusu ile bağlantı kurmak için kullanılacak Wi-Fi bilgileri
 char ssid[] = "internet ssid gir";
 char pass[] = "internetpass gir";
